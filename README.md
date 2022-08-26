@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Habeus-Crimpus! I'm a graduate student in Sweden.
+- 👋 Hi, I’m Tyler! I'm a graduate student in Sweden.
 - 👀 I’m interested in the probability of vague events, fuzzy logic, and epistemology (especially probabilism).
 - 🌱 I’m currently learning stationary stochastic processes, markov chains, and python (for machine learning).
 - 📫 To contact me, I recommend using the contact form on my website (URL: https://tylerlchang.com). 
