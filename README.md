@@ -7,12 +7,11 @@ SHORT SUMMARY ABOUT ME
 
 Languages/Skills
 
-- R (ggplot2, tidyverse, dyplr, lubridate, data.table, Recosystem, caret, RStudio, RMarkdown)
-- SQL (PostgreSQL; I'm currently learning more about MySQL and T-SQL)
+- R (ggplot2, tidyverse, dyplr, lubridate, data.table, Recosystem, caret, R Studio, R Markdown)
+- SQL (PostgreSQL)
 - Microsoft Excel (Pivot tables, macros, IF-statements, Lookup functions, data visualization)
 - Tableau (Tableau Public; the paid versions are too expensive)
 - Microsoft Applications (PowerPoint, Word, Teams, OneNote)
-- Python (in-progress; This will be updated soon)
 
 - English (I'm a native speaker)
 
