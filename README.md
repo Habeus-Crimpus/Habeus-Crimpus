@@ -2,7 +2,7 @@ SHORT SUMMARY ABOUT ME
 
 - 👋 Hi, I’m Tyler! I'm an aspiring data scientist, logic nerd, and longtime rock climber.
 - 👀 I’m interested in the statistics of vague events, sociopolitical forecasting, and paradoxes (especially Sorites paradoxes).
-- 🌱 I’m currently enhancing my understanding of SQL and Python.
+- 🌱 I’m currently enhancing my R skills.
 - 📫 To contact me, email me at tchang343w@gmail.com. 
 
 Languages/Skills
@@ -40,4 +40,3 @@ Here are some fun facts about me
   
 - I read constantly! Though I read philosophy (especially ethics and epistemology) more than anything else, I also regularly read psychology, technology news, graphic novels, Scandinavian mysteries, and sociopolitical news.
 - Hiking is greatly enjoyed, if seldom indulged in, hobby of mine (especially in Colorado).
-- As a child, I thought that if I taught myself to count cards thinking that I would get rich fast when I became an adult. Imagine my disappointment when I found out that casinos usually ban you for doing that 😭.
