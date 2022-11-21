@@ -22,7 +22,7 @@ Academic/Professional History
 
 - I earned a bachelor's degree in mathematics and philosophy from Rutgers University-New Brunswick (magna cum laude honors: 3.7/4 GPA)
 - I have a Professional Certificate in Data Science from Harvardx (August 2022: 98.25% average across 8 classes and 2 projects)
-- I have 4+ years experience tutoring university-level statistics and technical writing.
+- I have 3+ years experience tutoring university-level statistics.
 
 Here are some fun facts about me
 
