@@ -2,7 +2,7 @@ SHORT SUMMARY ABOUT ME
 
 - 👋 Hi, I’m Tyler! I'm an aspiring data scientist, logic nerd, and longtime rock climber.
 - 👀 I’m interested in the statistics of vague events, sociopolitical forecasting, and paradoxes (especially Sorites paradoxes).
-- 🌱 I’m currently enhancing my R skills.
+- 🌱 I’m currently enhancing my R skills and seeking a data analyst role.
 - 📫 To contact me, email me at tchang343w@gmail.com. 
 
 Languages/Skills
