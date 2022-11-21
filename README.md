@@ -34,7 +34,7 @@ Here are some fun facts about me
   
   Hardest Onsights (outdoors): 5.11b (6C+) and V6 (7A)
   
-  Hardest Sends (outdoors): 5.13a (7C+) and V8+ (7B+)
+  Hardest Sends (outdoors): 5.13a (7C+) and V9 (7B+)
   
   Fastest Speed Wall Time: 10.12 seconds (...in 2018; I am way slower now 🐢)
   
