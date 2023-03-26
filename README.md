@@ -8,11 +8,12 @@ SHORT SUMMARY ABOUT ME
 Languages/Skills
 
 - Python (pandas, matplotlib, seaborn, scikit-learn)
-- R (ggplot2, tidyverse, dyplr, lubridate, data.table, Recosystem, caret, R Studio, R Markdown)
+- R (ggplot2, tidyverse, dyplr, lubridate, data.table, Recosystem, caret)
 - SQL (PostgreSQL)
 - Microsoft Excel (Pivot tables, macros, IF-statements, Lookup functions, data visualization)
 - Tableau
 - Microsoft Applications (PowerPoint, Word, Teams, OneNote)
+- Markdown/Editors/IDE (RMarkdown, Jupyter Notebooks, PyCharm, VS Code, Typora)
 
 - I am a native speaker of English.
 
