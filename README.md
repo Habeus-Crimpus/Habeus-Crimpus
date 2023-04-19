@@ -1,8 +1,7 @@
 SHORT SUMMARY ABOUT ME
 
-- 👋 Hi, I’m Tyler! I'm an aspiring data scientist, logic nerd, and longtime rock climber.
-- 👀 I’m interested in the statistics of vague events, sociopolitical forecasting, and paradoxes (especially Sorites paradoxes).
-- 🌱 I’m currently preparing for the Le Wagon Data Science Bootcamp.
+- 👋 Hi, I’m Tyler! I'm an data scientist student at Le Wagon Munich [April 2023-June 2023].
+- 👀 I’m interested in the statistics of vague events, non-profit data work, and paradoxes (especially Sorites paradoxes).
 - 📫 To contact me, email me at tchang343w@gmail.com. 
 
 Languages/Skills
@@ -12,19 +11,15 @@ Languages/Skills
 - SQL (PostgreSQL)
 - Microsoft Excel (Pivot tables, macros, IF-statements, Lookup functions, data visualization)
 - Tableau
+- Git
+- Unix (terminal usage on MacOS)
+- GitHub
 - Microsoft Applications (PowerPoint, Word, Teams, OneNote)
-- Markdown/Editors/IDE (RMarkdown, Jupyter Notebooks, PyCharm, VS Code, Typora)
-
-- I am a native speaker of English.
+- Google Suit (Docs, Sheets, Drive)
 
 Academic/Professional History
 
-- Bachelor's degree in mathematics and philosophy from Rutgers University-New Brunswick (magna cum laude honors: 3.7/4 GPA)
+- B.A. in mathematics and philosophy from Rutgers University-New Brunswick (magna cum laude honors: 3.7/4 GPA)
 - Professional Certificate in Data Science from Harvardx (98.25% average across 8 classes and 2 projects)
 - 3+ years experience tutoring university-level statistics.
 
-Here are some fun facts about me
-
-- I am a longtime rock climber and as a result, a lot of my personal projects use data collected about my own climbing.
-- I am fascinated by moral, logical, and epistemological puzzles! Engage me in a conversation at your own risk (I will talk for hours if you let me)!
-- Much of my time that isn't spent coding, climbing, or working is spent writing and reading philosophical essays.
