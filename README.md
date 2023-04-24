@@ -1,7 +1,7 @@
 SHORT SUMMARY ABOUT ME
 
-- 👋 Hi, I’m Tyler! I'm an data scientist student at Le Wagon Munich [April 2023-June 2023].
-- 👀 I’m interested in the statistics of vague events, non-profit data work, and paradoxes (especially Sorites paradoxes).
+- 👋 Hi, I’m Tyler! I'm a data scientist student at Le Wagon Munich [April 2023-June 2023] seeking a data role beginning July 2023.
+- 👀 I’m interested in the statistics of vague events, non-profit data work, and puzzles about infinity.
 - 📫 To contact me, email me at tchang343w@gmail.com. 
 
 Languages/Skills
