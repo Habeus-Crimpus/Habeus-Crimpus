@@ -6,7 +6,7 @@ SHORT SUMMARY ABOUT ME
 
 Languages/Skills
 
-- Python (pandas, matplotlib, seaborn, scikit-learn)
+- Python (NumPy, Pandas, Matplotlib, Seaborn, Scikit-Learn)
 - R (ggplot2, tidyverse, dyplr, lubridate, data.table, Recosystem, caret)
 - SQL (PostgreSQL)
 - Microsoft Excel (Pivot tables, macros, IF-statements, Lookup functions, data visualization)
