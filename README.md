@@ -23,3 +23,4 @@ Academic/Professional History
 - Professional Certificate in Data Science from Harvardx (98.25% average across 8 classes and 2 projects)
 - 3+ years experience tutoring university-level statistics.
 
+I am also a longtime rock climber who tracks all of his climbing. So, if you're wondering why a lot of my projects are climbing-centric, that's why.
