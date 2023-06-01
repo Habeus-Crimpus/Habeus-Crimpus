@@ -6,7 +6,7 @@ SHORT SUMMARY ABOUT ME
 
 Languages/Skills
 
-- Python (NumPy, Pandas, Matplotlib, Seaborn, Scikit-Learn, tensorflow, keras, scipy)
+- Python (NumPy, Pandas, Matplotlib, Seaborn, Scikit-Learn, tensorflow, keras, scipy, Streamlit)
 - R (ggplot2, tidyverse, dyplr, lubridate, data.table, Recosystem, caret)
 - SQL (PostgreSQL, SQLite)
 - Microsoft Excel (Pivot tables, macros, IF-statements, Lookup functions, data visualization)
@@ -16,10 +16,14 @@ Languages/Skills
 - GitHub
 - Microsoft Applications (PowerPoint, Word, Teams, OneNote)
 - Google Suit (Docs, Sheets, Drive)
+- Docker
+- MLflow
+- Google Cloud Platform (BigQuery, Compute Engine, Cloud Run)
 
 Academic/Professional History
 
 - B.A. in mathematics and philosophy from Rutgers University-New Brunswick (magna cum laude honors: 3.7/4 GPA)
+- Le Wagon Data Science Bootcamp
 - Professional Certificate in Data Science from Harvardx (98.25% average across 8 classes and 2 projects)
 - 3+ years experience tutoring university-level statistics.
 
