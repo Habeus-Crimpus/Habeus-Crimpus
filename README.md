@@ -12,6 +12,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg"/><img height=40
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/><img height=40
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg"/><img height=40
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg"/><img height=40
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/><img height=40 
 />
 - Python (NumPy, Pandas, Matplotlib, Seaborn, Scikit-Learn, tensorflow, keras, scipy, Streamlit)
