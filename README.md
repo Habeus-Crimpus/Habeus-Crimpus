@@ -4,9 +4,8 @@ SHORT SUMMARY ABOUT ME
 - 👀 I’m interested in the statistics of vague events, non-profit data work, and puzzles about infinity.
 - 📫 To contact me, email me at tchang343w@gmail.com. 
 
-Languages/Skills
-
-<img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/><img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"/><img height=40 
+<img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/><img height=40
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg"/><img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"/><img height=40 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg"/><img height=40                                                   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg"/><img height=40
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg"/><img height=40
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg"/><img height=40
