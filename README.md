@@ -1,11 +1,13 @@
-SHORT SUMMARY ABOUT ME
-
-- 👋 Hi, I’m Tyler! I'm a data scientist student at Le Wagon Munich [April 2023-June 2023] seeking a data role beginning July 2023.
-- 👀 I’m interested in the statistics of vague events, non-profit data work, and puzzles about infinity.
-- 📫 To contact me, email me at tchang343w@gmail.com. 
+## About Me (TL;DR)
+* 👋 Hi, I’m Tyler! 
+* 📊 I'm a data scientist student at Le Wagon Munich [April 2023-June 2023].
+* 👨🏻‍🎓 I earned my bachelor's degree in mathematics and philsophy from Rutgers University.
+* 👀 I’m interested in the statistics of vague events, non-profit data work, and puzzles about infinity ∞.
+* 📫 To contact me, email me at tchang343w@gmail.com. 
 
 <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/><img height=40
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg"/><img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"/><img height=40 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg"/><img height=40
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg"/><img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"/><img height=40 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg"/><img height=40                                                   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg"/><img height=40
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg"/><img height=40
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg"/><img height=40
