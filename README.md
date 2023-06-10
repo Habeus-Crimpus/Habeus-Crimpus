@@ -31,7 +31,6 @@ I am also a longtime rock climber who tracks all of his climbing. So, if you're 
 
 <img src="https://github-readme-stats.vercel.app/api?username=Habeus-Crimpus&show_icons=true"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Habeus-Crimpus"/>
-
-
-<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/><img height=50 />
+<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/><img height=50 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg"/><im height=50
+/>
