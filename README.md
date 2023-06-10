@@ -6,6 +6,13 @@ SHORT SUMMARY ABOUT ME
 
 Languages/Skills
 
+<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"/><img height=50 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg"/><img height=50                                                   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg"/><img height=50
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg"/><img height=50
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg"/><img height=50
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/><img height=50
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/><img height=50 
+/>
 - Python (NumPy, Pandas, Matplotlib, Seaborn, Scikit-Learn, tensorflow, keras, scipy, Streamlit)
 - R (ggplot2, tidyverse, dyplr, lubridate, data.table, Recosystem, caret)
 - SQL (PostgreSQL, SQLite)
@@ -28,13 +35,3 @@ Academic/Professional History
 - 3+ years experience tutoring university-level statistics.
 
 I am also a longtime rock climber who tracks all of his climbing. So, if you're wondering why a lot of my projects are climbing-centric, that's why.
-
-<img src="https://github-readme-stats.vercel.app/api?username=Habeus-Crimpus&show_icons=true"/>
-
-<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"/><img height=50 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg"/><img height=50                                                   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg"/><img height=50
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg"/><img height=50
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg"/><img height=50
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/><img height=50
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/><img height=50 
-/>
