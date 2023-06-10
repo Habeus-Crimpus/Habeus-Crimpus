@@ -1,4 +1,5 @@
 ## About Me (TL;DR)
+
 * 👋 Hi, I’m Tyler! 
 * 📊 I'm a data scientist student at Le Wagon Munich [April 2023-June 2023].
 * 👨🏻‍🎓 I earned my bachelor's degree in mathematics and philsophy from Rutgers University.
@@ -14,21 +15,20 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.s
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/><img height=40
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg"/><img height=40
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg"/><img height=40
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/><img height=40 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/><img height=40
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg"/><img height=40
 />
-- Python (NumPy, Pandas, Matplotlib, Seaborn, Scikit-Learn, tensorflow, keras, scipy, Streamlit)
-- R (ggplot2, tidyverse, dyplr, lubridate, data.table, Recosystem, caret)
-- SQL (PostgreSQL, SQLite)
-- Microsoft Excel (Pivot tables, macros, IF-statements, Lookup functions, data visualization)
-- Tableau
-- Git
-- Unix (terminal usage on MacOS)
-- GitHub
-- Microsoft Applications (PowerPoint, Word, Teams, OneNote)
-- Google Suit (Docs, Sheets, Drive)
-- Docker
-- MLflow
-- Google Cloud Platform (BigQuery, Compute Engine, Cloud Run)
+
+## More about Me
+
+**Data Manipulation and Processing**
+* *Python*: Pandas, NumPy, 
+* *R*: dplyr, tidyr, plyr, stringr, lubridate
+
+**Data Visualization**
+* *Python*: Matplotlib, Seaborn, Plotly
+* *R*: ggplot2, shiny
+* *Tableau*
 
 Academic/Professional History
 
