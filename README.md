@@ -28,3 +28,5 @@ Academic/Professional History
 - 3+ years experience tutoring university-level statistics.
 
 I am also a longtime rock climber who tracks all of his climbing. So, if you're wondering why a lot of my projects are climbing-centric, that's why.
+
+<img src="https://github-readme-stats.vercel.app/api?username=Habeus-Crimpus&show_icons=true"/>
