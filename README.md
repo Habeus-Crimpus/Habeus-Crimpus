@@ -1,7 +1,7 @@
-## About Me (TL;DR)
+# About Me
 
 * 👋 Hi, I’m Tyler! 
-* 📊 I'm a data scientist student at Le Wagon Munich [April 2023-June 2023].
+* 📊 I'm a recent graduate of the Le Wagon Munich Data Science bootcamp [Certificate]()
 * 👨🏻‍🎓 I earned my bachelor's degree in mathematics and philsophy from Rutgers University.
 * 👀 I’m interested in the statistics of vague events, non-profit data work, and puzzles about infinity ∞.
 * 🧗🏻‍♂️ I love rock climbing (this is my 12th year)!!!
@@ -20,26 +20,3 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.s
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg"/><img height=40
 />
 
-## More about Me
-
-**Data Manipulation and Processing**
-* *Python*: Pandas, NumPy, 
-* *R*: dplyr, tidyr, plyr, stringr, lubridate
-
-**Data Visualization**
-* *Python*: Matplotlib, Seaborn, Plotly
-* *R*: ggplot2, shiny
-* *Tableau*
-
-**Machine Learning**
-* *Python*: Scikit-Learn, Scipy, XGBoost, LightGBM
-* *R*: caret, xgboost, randomForest
-* *Models*: linear regression, logistic regression, decision trees, random forests, gradient boosting, ridge classifiers, KNN
-
-**Deep Learning**
-* *Python*: Tensorflow, Keras
-* *Models*: RNN, CNN, NLP
-
-**Statistics**
-* Confidence intervals, t-tests, ANOVA, MANOVA, ANCOVA, HSD
-* Single and multivariate regression (logistic, linear, lasso, and ridge)
