@@ -1,7 +1,7 @@
 # About Me
 
 * 👋 Hi, I’m Tyler! 
-* 📊 I'm a recent graduate of the Le Wagon Munich Data Science bootcamp [Certificate]()
+* 📊 I'm a recent graduate of the Le Wagon Munich Data Science bootcamp. Here's my [Certificate]()
 * 👨🏻‍🎓 I earned my bachelor's degree in mathematics and philsophy from Rutgers University.
 * 👀 I’m interested in the statistics of vague events, non-profit data work, and puzzles about infinity ∞.
 * 🧗🏻‍♂️ I love rock climbing (this is my 12th year)!!!
