@@ -9,10 +9,6 @@
 * 🌎 I've lived in the US 🇺🇸, Sweden 🇸🇪, and Germany 🇩🇪.
 * 📫 To contact me, email me at tchang343w@gmail.com.
 
-[LINKEDIN](https://www.linkedin.com/in/tylerchang/)
-
-[DATA PORTFOLIO](https://troopl.com/tchang343w)
-
 ---
 # Programming & Applications
 
