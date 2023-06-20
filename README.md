@@ -9,7 +9,7 @@
 * 🌎 I've lived in the US 🇺🇸, Sweden 🇸🇪, and Germany 🇩🇪.
 * 📫 To contact me, email me at tchang343w@gmail.com.
 
----
+___
 # Programming & Applications
 
 <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/><img height=40
@@ -27,7 +27,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-
 
 ---
 
-# Summary of the Projects 
+# Portfolio Information
 
 * 😈 The **Dark Triad Classification App (Python)** offers supervised machine learning predictions and dynamic data visualizations about levels of agreement with questions used to measure narcissism, psychopathy, and Machiavellianism. 
 * 🧗🏻‍♂️ The **IFSC Classification Report (R)** summarizes the development of a random forest classification model that predicts with +90% accuracy whether a rock climbing athlete should be considered a potential winner of an International Federation of Sport Climbing (IFSC) competition.
@@ -35,8 +35,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-
 * 🦄 The **Analysis of Unicorn Companies (PostgreSQL)** is a brief exploratory data analysis report of unicorn companies between 2019-2021.
 * 😃 The **CPI vs. Happiness Dashboard (Tableau)** provides interactive map, numeric, and scatter plot-based exploratory data analysis of economic, social, and political data in relation to reported happiness across various countries.
 
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-
+___
 # Links
 
 **Dark Triad App:** https://darktriad1.streamlit.app/
