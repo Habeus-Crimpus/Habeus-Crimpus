@@ -38,3 +38,5 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-
 ---
 
 <img src="https://github-readme-stats.vercel.app/api?username=Habeus-Crimpus&show_icons=true"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Habeus-Crimpus&layout=compact"/>
