@@ -1,4 +1,4 @@
-# About Me
+![7p4ukj](https://github.com/Habeus-Crimpus/Habeus-Crimpus/assets/96104109/6709d3ca-0055-439e-acb3-0356b9a50213)# About Me
 
 * 👋 Hi, I’m Tyler, an NYC-based data analyst and statistics educator.
 * 📊 I'm a recent graduate of the Le Wagon Munich Data Science bootcamp. Here's my [Certificate](https://kitt.lewagon.com/schoolings/28904/public_diploma?token=b6a7b5017047253482d04c05baf61cc0a4a222a1aaf2258cb46762dad76bef47).
@@ -35,3 +35,6 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-
 * 🦄 The **Analysis of Unicorn Companies (PostgreSQL)** is a brief exploratory data analysis report of unicorn companies between 2019-2021. Available at: https://app.datacamp.com/workspace/w/c7cb59c6-8b53-4644-8d21-1eb137a7c275
 * 😃 The **CPI vs. Happiness Dashboard (Tableau)** provides interactive map, numeric, and scatter plot-based exploratory data analysis of economic, social, and political data in relation to reported happiness across various countries. Available at: https://public.tableau.com/app/profile/tyler7235/viz/CPIvs_HappinessDashboard/Dashboard1
 
+---
+
+![](![Uploading 7p4ukj.jpg…])
