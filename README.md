@@ -27,7 +27,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-
 
 ---
 
-# Portfolio Information
+# Highlighted Projects
 
 * 😈 The **Dark Triad Classification App (Python)** offers supervised machine learning predictions and dynamic data visualizations about levels of agreement with questions used to measure narcissism, psychopathy, and Machiavellianism. Available at: https://darktriad1.streamlit.app/
 * 🧗🏻‍♂️ The **IFSC Classification Report (R)** summarizes the development of a random forest classification model that predicts with +90% accuracy whether a rock climbing athlete should be considered a potential winner of an International Federation of Sport Climbing (IFSC) competition. Available at: https://github.com/Habeus-Crimpus/IFSC/blob/main/IFSC_Abridged_Report.pdf
@@ -35,8 +35,3 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-
 * 🦄 The **Analysis of Unicorn Companies (PostgreSQL)** is a brief exploratory data analysis report of unicorn companies between 2019-2021. Available at: https://app.datacamp.com/workspace/w/c7cb59c6-8b53-4644-8d21-1eb137a7c275
 * 😃 The **CPI vs. Happiness Dashboard (Tableau)** provides interactive map, numeric, and scatter plot-based exploratory data analysis of economic, social, and political data in relation to reported happiness across various countries. Available at: https://public.tableau.com/app/profile/tyler7235/viz/CPIvs_HappinessDashboard/Dashboard1
 
----
-
-<img src="https://github-readme-stats.vercel.app/api?username=Habeus-Crimpus&show_icons=true"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Habeus-Crimpus&layout=compact"/>
