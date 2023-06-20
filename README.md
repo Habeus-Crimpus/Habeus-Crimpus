@@ -37,4 +37,3 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-
 
 ---
 
-![Uploading 7p4ukj.jpg…]
