@@ -36,5 +36,8 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-
 * 😃 The **CPI vs. Happiness Dashboard (Tableau)** provides interactive map, numeric, and scatter plot-based exploratory data analysis of economic, social, and political data in relation to reported happiness across various countries. Available at: https://public.tableau.com/app/profile/tyler7235/viz/CPIvs_HappinessDashboard/Dashboard1
 
 ---
+# Coding Meme of the Week
+
+I am a great fan of making memes about coding and data science. The meme will change every week.
 
 ![7p4ukj](https://github.com/Habeus-Crimpus/Habeus-Crimpus/assets/96104109/6709d3ca-0055-439e-acb3-0356b9a50213)
