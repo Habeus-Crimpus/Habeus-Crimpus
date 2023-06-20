@@ -9,6 +9,8 @@
 * 🌎 I've lived in the US 🇺🇸, Sweden 🇸🇪, and Germany 🇩🇪.
 * 📫 To contact me, email me at tchang343w@gmail.com.
 
+<img height=40 src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg"/>  
+
 ---
 # Programming & Applications
 
