@@ -35,4 +35,6 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-
 * 🦄 The **Analysis of Unicorn Companies (PostgreSQL)** is a brief exploratory data analysis report of unicorn companies between 2019-2021. Available at: https://app.datacamp.com/workspace/w/c7cb59c6-8b53-4644-8d21-1eb137a7c275
 * 😃 The **CPI vs. Happiness Dashboard (Tableau)** provides interactive map, numeric, and scatter plot-based exploratory data analysis of economic, social, and political data in relation to reported happiness across various countries. Available at: https://public.tableau.com/app/profile/tyler7235/viz/CPIvs_HappinessDashboard/Dashboard1
 
+---
 
+<img src="https://github-readme-stats.vercel.app/api?username=zluvsand&show_icons=true"/>
