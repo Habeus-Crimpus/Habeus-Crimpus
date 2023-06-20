@@ -38,6 +38,6 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-
 ---
 # Coding Meme of the Week
 
-I am a great fan of making memes about coding and data science. The meme will change every week.
+I am a great fan of making memes about coding and data science. The meme will change every Sunday.
 
 ![7p4ukj](https://github.com/Habeus-Crimpus/Habeus-Crimpus/assets/96104109/6709d3ca-0055-439e-acb3-0356b9a50213)
