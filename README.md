@@ -1,6 +1,6 @@
 # About Me
 
-* 👋 Hi, I’m Tyler, an NYC-based data analyst and statistics educator.
+* 👋 Hi, I’m Tyler, an NJ-based data analyst and statistics educator.
 * 📊 I'm a recent graduate of the Le Wagon Munich Data Science bootcamp. Here's my [Certificate](https://kitt.lewagon.com/schoolings/28904/public_diploma?token=b6a7b5017047253482d04c05baf61cc0a4a222a1aaf2258cb46762dad76bef47).
 * 👨🏻‍🎓 I earned my bachelor's degree in mathematics 🧮 and philosophy 🤔 from Rutgers University-New Brunswick.
 * 👀 I’m interested in the statistics of vague events, non-profit data work, and puzzles about infinity ∞.
