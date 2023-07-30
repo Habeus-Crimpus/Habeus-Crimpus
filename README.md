@@ -1,10 +1,10 @@
 # About Me
 
 * 👋 Hi, I’m Tyler, an NJ-based data analyst and statistics educator.
-* 📊 I'm a recent graduate of the Le Wagon Munich Data Science bootcamp. Here's my [Certificate](https://kitt.lewagon.com/schoolings/28904/public_diploma?token=b6a7b5017047253482d04c05baf61cc0a4a222a1aaf2258cb46762dad76bef47).
+* 📊 I'm a graduate of the Le Wagon Munich Data Science bootcamp. Here's my [Certificate](https://kitt.lewagon.com/schoolings/28904/public_diploma?token=b6a7b5017047253482d04c05baf61cc0a4a222a1aaf2258cb46762dad76bef47).
 * 👨🏻‍🎓 I earned my bachelor's degree in mathematics 🧮 and philosophy 🤔 from Rutgers University-New Brunswick.
 * 👀 I’m interested in the statistics of vague events, non-profit data work, and puzzles about infinity ∞.
-* 🧗🏻‍♂️ I love rock climbing (this is my 12th year)!!!
+* 🧗🏻‍♂️ I love rock climbing (this is my 13th year)!!!
 * 🗣️ I am a native English speaker.
 * 🌎 I've lived in the US 🇺🇸, Sweden 🇸🇪, and Germany 🇩🇪.
 * 📫 To contact me, email me at tchang343w@gmail.com.
@@ -39,4 +39,5 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-
 # Coding Meme of the Week
 
 I am a great fan of making memes about coding and data science. Here's a recent creation.
+
 ![7u66jf](https://github.com/Habeus-Crimpus/Habeus-Crimpus/assets/96104109/27e7512e-9339-4801-9116-486a67bb2409)
