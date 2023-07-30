@@ -39,5 +39,4 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-
 # Coding Meme of the Week
 
 I am a great fan of making memes about coding and data science. Here's a recent creation.
-
-![7mdjoo](https://github.com/Habeus-Crimpus/Habeus-Crimpus/assets/96104109/8b5a316c-7613-4854-adb3-aeae1aa142d4)
+![7u66jf](https://github.com/Habeus-Crimpus/Habeus-Crimpus/assets/96104109/27e7512e-9339-4801-9116-486a67bb2409)
