@@ -28,15 +28,15 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-
 ---
 
 # Highlighted Projects
-
+* 💰 The **Loan Default Prediction Report (Python)** offers two tuned supervised machine learning models (XGBoost and Random Forest) that predict whether a loan will ultimately default with over 93% accuracy.
 * 😈 The **Dark Triad Classification App (Python)** offers supervised machine learning predictions and dynamic data visualizations about levels of agreement with questions used to measure narcissism, psychopathy, and Machiavellianism. Available at: https://darktriad1.streamlit.app/
 * 🧗🏻‍♂️ The **IFSC Classification Report (R)** summarizes the development of a random forest classification model that predicts with +90% accuracy whether a rock climbing athlete should be considered a potential winner of an International Federation of Sport Climbing (IFSC) competition. Available at: https://github.com/Habeus-Crimpus/IFSC/blob/main/IFSC_Abridged_Report.pdf
 * 🎬 The **Movie Recommender Project (R)** covers my work on the Netflix challenge, where Netflix offered a prize for developing a recommendation system that performed better than their own. The report includes a model that performed 9.6% better than Netflix's (then) algorithm. Available at: https://github.com/Habeus-Crimpus/Movielens_Harvardx/blob/main/Movielens_10M_PDF.pdf
-* 🦄 The **Analysis of Unicorn Companies (PostgreSQL)** is a brief exploratory data analysis report of unicorn companies between 2019-2021. Available at: https://app.datacamp.com/workspace/w/c7cb59c6-8b53-4644-8d21-1eb137a7c275
 
 ---
 # Coding Meme of the Week
 
 I am a great fan of making memes about coding and data science. Here's a recent creation.
 
-![7u66jf](https://github.com/Habeus-Crimpus/Habeus-Crimpus/assets/96104109/27e7512e-9339-4801-9116-486a67bb2409)
+![80k0ns](https://github.com/Habeus-Crimpus/Habeus-Crimpus/assets/96104109/41a8a403-945b-4e79-ba80-74518daa0e41)
+
