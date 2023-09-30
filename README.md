@@ -1,15 +1,3 @@
-<div id="badges" align="center">
-  <h1>
-  Hi! 👋
-  </h1>
-  <a href="https://www.linkedin.com/in/tylerchang/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a>
-    <img src="https://komarev.com/ghpvc/?username=Habeus-Crimpus&style=flat-square&color=blue" alt=""/>
-  </a>
-</div>
-
 <div id="header" align="center">
 <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="700" height="300"/>
 </div>
@@ -23,7 +11,7 @@
 * 🧗🏻‍♂️ I love rock climbing (this is my 13th year)!!!
 * 🗣️ I am a native English speaker.
 * 🌎 I've lived in the US 🇺🇸, Sweden 🇸🇪, and Germany 🇩🇪.
-* 📫 To contact me, email me at tchang343w@gmail.com.
+* 📫 To contact me, visit my [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tylerchang/).
 
 ---
 # Programming & Applications
