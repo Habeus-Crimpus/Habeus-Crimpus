@@ -1,5 +1,17 @@
+<div id="badges" align="center">
+  <h1>
+  Hi! 👋
+  </h1>
+  <a href="https://www.linkedin.com/in/tylerchang/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a>
+    <img src="https://komarev.com/ghpvc/?username=Habeus-Crimpus&style=flat-square&color=blue" alt=""/>
+  </a>
+</div>
+
 <div id="header" align="center">
-<img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="3000" height="300"/>
+<img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="700" height="300"/>
 </div>
 
 # About Me
@@ -37,6 +49,10 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-
 * 🧗🏻‍♂️ The **IFSC Classification Report (R)** summarizes the development of a random forest classification model that predicts with +90% accuracy whether a rock climbing athlete should be considered a potential winner of an International Federation of Sport Climbing (IFSC) competition. Available at: https://github.com/Habeus-Crimpus/IFSC/blob/main/IFSC_Abridged_Report.pdf
 * 🎬 The **Movie Recommender Project (R)** covers my work on the Netflix challenge, where Netflix offered a prize for developing a recommendation system that performed better than their own. The report includes a model that performed 9.6% better than Netflix's (then) algorithm. Available at: https://github.com/Habeus-Crimpus/Movielens_Harvardx/blob/main/Movielens_10M_PDF.pdf
 
+---
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Habeus-Crimpus&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Habeus-Crimpus&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 ---
 # Coding Meme of the Week
 
