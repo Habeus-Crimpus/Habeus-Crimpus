@@ -2,19 +2,23 @@
 <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="700" height="300"/>
 </div>
 
-# About Me
+# Hi! I'm Tyler.
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tylerchang/)
+[![Data Portfolio](https://img.shields.io/badge/Data_Portfolio-path?logoColor=hex)](https://troopl.com/tchang343w)
 
-* 👋 Hi, I’m Tyler, an NJ-based researcher and statistics educator.
-* 📊 I'm a graduate of the Le Wagon Munich Data Science bootcamp. Here's my [Certificate](https://kitt.lewagon.com/schoolings/28904/public_diploma?token=b6a7b5017047253482d04c05baf61cc0a4a222a1aaf2258cb46762dad76bef47).
-* 👨🏻‍🎓 I earned my bachelor's degree in mathematics 🧮 and philosophy 🤔 from Rutgers University-New Brunswick.
-* 👀 I’m interested in the statistics of vague events, non-profit data work, and puzzles about infinity ∞.
-* 🧗🏻‍♂️ I love rock climbing (this is my 13th year)!!!
-* 🗣️ I am a native English speaker.
-* 🌎 I've lived in the US 🇺🇸, Sweden 🇸🇪, and Germany 🇩🇪.
-* 📫 To contact me, visit my [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tylerchang/).
+# TL;DR About Me
+* I earned a B.A. in mathematics ♾️ and philosophy 🤔 from Rutgers University-New Brunswick (2020).
+* I mostly work with Python 🐍 and R 📊.
+* I have done research in data science, philosophy (ethics), and mathematics education.
+* I have been a university-level statistics and English tutor for 4+ years.
+* I spend most of my free time climbing 🧗🏻‍♂️, writing ✍🏼 philosophy, and reading books 📖 about data ethics.
+* I'm currently applying to doctoral programs in data and information science.
 
----
-# Programming & Applications
+# Research Interests
+
+My greatest interests lie at the intersection of data science, social ethics, and psychology. I am particularly interested in the development of AI-driven diagnostic tools for psychological conditions and the associated ethical issues with algorithmic fairness in policy-making. I am also fascinated by fuzzy logic and the probability of vague events, interests that have recently become intertwined with my other research areas.
+
+# Programming & Applications I Work With
 
 <img height=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/><img height=40
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg"/><img height=40
@@ -41,10 +45,6 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Habeus-Crimpus&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Habeus-Crimpus&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
----
-# Coding Meme of the Week
 
-I am a great fan of making memes about coding and data science. Here's a recent creation.
 
-![80k0ns](https://github.com/Habeus-Crimpus/Habeus-Crimpus/assets/96104109/41a8a403-945b-4e79-ba80-74518daa0e41)
 
