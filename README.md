@@ -14,11 +14,13 @@
 * I have done research in data science, philosophy (ethics), and mathematics education.
 * I have been a university-level statistics and English tutor for 4+ years.
 * I spend most of my free time climbing 🧗🏻‍♂️, writing ✍🏼 philosophy, and reading books 📖 about data ethics.
-* I'm currently applying to doctoral programs in data and information science.
 
 # Research Interests
 
-My greatest interests lie at the intersection of data science, social ethics, and psychology. I am particularly interested in the development of AI-driven diagnostic tools for psychological conditions and the associated ethical issues with algorithmic fairness in policy-making. I am also fascinated by fuzzy logic and the probability of vague events, interests that have recently become intertwined with my other research areas.
+I am fascinated by fuzzy logic and the modeling of subjects that are either irreparably vague or are missing morally decisive information. My most recent work has focused on building ethically-conscious and AI-based recommendation systems for moral blind alleys.
+
+I am currently working on a system for identifying anomalous levels of psychopathic, narcissistic, and Machiavellian traits based on epoch-specific data. 
+
 
 # Programming & Applications I Work With
 
