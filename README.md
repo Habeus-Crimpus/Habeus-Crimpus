@@ -4,7 +4,6 @@
 
 # Hi! I'm Tyler.
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tylerchang/)
-[![Data Portfolio](https://img.shields.io/badge/Data_Portfolio-path?logoColor=hex)](https://troopl.com/tchang343w)
 [![CV](https://img.shields.io/badge/CV-path?color=yellow)](https://drive.google.com/file/d/17oF9zSwZLBs8XirNR8kiD3bNTD6CQB87/view?usp=sharing)
 
 
